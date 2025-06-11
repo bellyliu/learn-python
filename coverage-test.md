@@ -1,4 +1,3 @@
-```markdown
 # Python 2.7 Test Coverage with `coverage.py`
 
 This guide provides an introduction to test coverage in Python 2.7 using the `coverage.py` library. It explains what test coverage is, why it's important, and how to generate and interpret coverage reports.
