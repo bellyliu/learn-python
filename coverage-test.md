@@ -168,4 +168,4 @@ TOTAL            17      2    88%
 ```
 
 This report clearly shows that `my_app.py` has **71% coverage** and that **lines 11-12** (the discount logic) were not executed by your tests. This gives you a clear action item: write a test that includes a discount to achieve 100% coverage.
-```
+
